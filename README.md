@@ -2,6 +2,7 @@
 
 app de e-commerce con:
 - CSS
+- framework de diseño skeleton: http://getskeleton.com/ 
 - localStorage
 
 ### La pantalla de inicio:
